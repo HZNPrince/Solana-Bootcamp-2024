@@ -1,0 +1,19 @@
+[toolchain]
+package_manager = "yarn"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.localnet]
+tokenvesting = "DNiSD9NGc45S7MaPPVKPyt7Ue8EARnZvXjE2CwHXxygN"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/aster27/Desktop/dev_creds/DevXPxYms5t88gQQ5w9N8z5ifu8F6F8KPKYjaYRrkQei.json"
+
+[scripts]
+test = "../node_modules/.bin/vitest"
