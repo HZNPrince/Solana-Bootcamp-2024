@@ -1,1 +1,0 @@
-/Users/aster27/Desktop/github/bootcamp-projects/token-vesting/anchor/target/sbpf-solana-solana/release/tokenvesting.so: /Users/aster27/Desktop/github/bootcamp-projects/token-vesting/anchor/programs/tokenvesting/src/lib.rs
