@@ -21,11 +21,11 @@ custom-panic = []
 
 
 [dependencies]
-anchor-lang = { version = "0.32.1", features = ["init-if-needed"] }
+anchor-lang = { version="0.32.1", features=["init-if-needed"] }
 anchor-spl = "0.32.1"
-pyth-sdk-solana = "0.10.6"
+
 pyth-solana-receiver-sdk = "1.1.0"
-solana-program = "3.0.0"
+
 
 
 [lints.rust]
